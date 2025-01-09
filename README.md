@@ -11,7 +11,7 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
   - Sintaxe básica: Tipos de dados, operadores, controle de fluxo (if, else, loops).
   - Arrays: Declaração, inicialização e uso.
   - Entrada de dados: Usando `Scanner` para capturar inputs do usuário.
-  - **[Lista de Exercícios](link-para-lista)**: Prática de lógica com exercícios fundamentais.
+  - **Lista de Exercícios**: [Prática de lógica com exercícios fundamentais](https://github.com/isgust/DevJava/blob/master/Modulo%2001/Lista%20de%20Exercicios-%20Modulo%2001.pdf).
   
 ---
 
