@@ -1,7 +1,3 @@
-Aqui está o README atualizado, destacando a colaboração com o ChatGPT:
-
----
-
 # **Trilha de Estudos em Java**
 
 Este repositório documenta meu progresso e aprendizado na linguagem **Java**, seguindo uma trilha organizada em módulos, desde os fundamentos até tópicos avançados, como microserviços e arquitetura distribuída. O conteúdo foi desenvolvido em conjunto com o **ChatGPT**, que me auxiliou no planejamento, explicações e organização das etapas de estudo.
