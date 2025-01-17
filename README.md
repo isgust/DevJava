@@ -102,4 +102,4 @@ Sinta-se à vontade para abrir **issues** ou enviar um **pull request** com suge
 
 ---
 
-O que acha desse modelo? 😊
+
