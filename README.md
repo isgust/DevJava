@@ -19,7 +19,7 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
 - **Objetivo**: Compreender os pilares da orientação a objetos e aplicá-los.
 - **Conteúdo**:
   - Conceitos básicos: Classes, objetos, métodos e atributos.
-  - Herança, Polimorfismo, Encapsulamento e Abstração.
+  - Encapsulamento, Herança, Polimorfismo e Abstração.
   - Interfaces: Contratos para flexibilidade e extensibilidade.
   - Injeção de Dependência (DI): Fundamento essencial para frameworks como Spring.
 - **[Projetos e Exercícios](link-para-projetos)**: Aplicação prática dos conceitos.
