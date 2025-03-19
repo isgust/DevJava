@@ -22,7 +22,6 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
   - Encapsulamento, Herança, Polimorfismo e Abstração.
   - Interfaces: Contratos para flexibilidade e extensibilidade.
   - Injeção de Dependência (DI): Fundamento essencial para frameworks como Spring.
-- **[Projetos e Exercícios](link-para-projetos)**: Aplicação prática dos conceitos.
 
 ---
 
@@ -32,7 +31,6 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
   - **Coleções (Collections)**: List, Set, Map.
   - **Exceções (Exceptions)**: Captura e criação de exceções personalizadas.
   - **Java 8+ Features**: Lambdas, Streams e Optional.
-- **[Exercícios Práticos](link-para-exercicios)**.
 
 ---
 
