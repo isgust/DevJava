@@ -34,13 +34,33 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
 
 ---
 
-### **4. Banco de Dados e JDBC**
-- **Objetivo**: Integrar Java com bancos de dados relacionais.
+### **4: Banco de Dados com PostgreSQL e Java**
+
+- **Objetivo**: Integrar aplicações Java com bancos de dados PostgreSQL, desde a modelagem até a persistência de dados.
 - **Conteúdo**:
-  - SQL Básico: CRUD (Create, Read, Update, Delete).
-  - JDBC: Conectando Java ao banco de dados.
-  - Hibernate/JPA: Mapeamento Objeto-Relacional.
-- **[Projetos com JDBC e Hibernate](link-para-projetos)**.
+
+    - **1. Modelagem de Dados para PostgreSQL:**
+        - Conceitos de bancos de dados relacionais (tabelas, chaves, relacionamentos).
+        - Diagramas Entidade-Relacionamento (ER) para modelagem.
+        - Normalização de dados (1FN, 2FN, 3FN).
+
+    - **2. SQL com PostgreSQL:**
+        - Comandos básicos (CRUD: CREATE, READ, UPDATE, DELETE).
+        - Consultas avançadas (JOINs, subconsultas, funções agregadas).
+        - Transações e controle de concorrência.
+        - Otimização de consultas.
+
+    - **3. JDBC e PostgreSQL:**
+        - Conexão Java com PostgreSQL via JDBC.
+        - Execução de comandos SQL e tratamento de resultados.
+        - Boas práticas de JDBC.
+
+    - **4. Hibernate/JPA e PostgreSQL:**
+        - Mapeamento Objeto-Relacional (ORM) com Hibernate/JPA.
+        - Entidades e mapeamento de tabelas.
+        - Consultas com HQL/Criteria API.
+        - Gerenciamento de transações.
+        - Projetos práticos com JDBC e Hibernate.
 
 ---
 
