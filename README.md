@@ -33,34 +33,34 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
   - **Java 8+ Features**: Lambdas, Streams e Optional.
 
 ---
-### **4. Banco de Dados com Oracle SQL e Java**
+## 4. Banco de Dados com PostgreSQL e Java
 
-- **Objetivo**: Integrar aplicações Java com bancos de dados Oracle SQL, desde a modelagem até a persistência de dados.
+- **Objetivo**: Integrar aplicações Java com bancos de dados PostgreSQL, desde a modelagem até a persistência de dados.
 - **Conteúdo**:
 
-    - **1. Modelagem de Dados para Oracle SQL:**
+    - **1. Modelagem de Dados para PostgreSQL:**
         - Conceitos de bancos de dados relacionais (tabelas, chaves, relacionamentos).
         - Diagramas Entidade-Relacionamento (ER) para modelagem.
         - Normalização de dados (1FN, 2FN, 3FN).
-        - Conceitos específicos do Oracle, como tablespaces e schemas.
-    - **2. SQL com Oracle SQL:**
+        - Conceitos específicos do PostgreSQL, como schemas e tipos de dados avançados.
+    - **2. SQL com PostgreSQL:**
         - Comandos básicos (CRUD: CREATE, READ, UPDATE, DELETE).
         - Consultas avançadas (JOINs, subconsultas, funções agregadas).
         - Transações e controle de concorrência.
-        - Otimização de consultas específicas do Oracle.
-        - PL/SQL Básico, para criação de Stored Procedures, Functions e Triggers.
-    - **3. JDBC e Oracle SQL:**
-        - Conexão Java com Oracle SQL via JDBC.
+        - Otimização de consultas específicas do PostgreSQL.
+        - PL/pgSQL Básico, para criação de Stored Procedures, Functions e Triggers.
+    - **3. JDBC e PostgreSQL:**
+        - Conexão Java com PostgreSQL via JDBC.
         - Execução de comandos SQL e tratamento de resultados.
-        - Boas práticas de JDBC com Oracle.
-        - Utilização de Drivers especificos do Oracle.
-    - **4. Hibernate/JPA e Oracle SQL:**
+        - Boas práticas de JDBC com PostgreSQL.
+        - Utilização de Drivers específicos do PostgreSQL.
+    - **4. Hibernate/JPA e PostgreSQL:**
         - Mapeamento Objeto-Relacional (ORM) com Hibernate/JPA.
         - Entidades e mapeamento de tabelas.
         - Consultas com HQL/Criteria API.
         - Gerenciamento de transações.
-        - Dialetos do Oracle no Hibernate.
-        - Projetos práticos com JDBC e Hibernate utilizando Oracle.
+        - Dialetos do PostgreSQL no Hibernate.
+        - Projetos práticos com JDBC e Hibernate utilizando PostgreSQL.
 
 ---
 
