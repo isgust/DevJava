@@ -64,7 +64,7 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
 
 ---
 
-## **Como Utilizar Este Repositório**
+### **Como Utilizar Este Repositório**
 1. Navegue pelos diretórios organizados por módulo.
 2. Cada módulo contém:
    - Anotações teóricas.
@@ -74,14 +74,14 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
 
 ---
 
-## **Colaboração**
+### **Colaboração**
 Este projeto foi desenvolvido em conjunto com o **ChatGPT**, **GEMINI** e todo tipo material encontrado na internet, que forneceu suporte técnico, explicações e auxílio na organização de tópicos e exercícios.
 
 ---
 
 ---
 
-## **Contribuições**
+### **Contribuições**
 Sinta-se à vontade para abrir **issues** ou enviar um **pull request** com sugestões e melhorias.
 
 ---
