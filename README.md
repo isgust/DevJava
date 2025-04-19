@@ -33,7 +33,7 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
   - **Java 8+ Features**: Lambdas, Streams e Optional.
 
 ---
-## 4. Banco de Dados com PostgreSQL e Java
+### **4. Banco de Dados com PostgreSQL e Java
 
 - **Objetivo**: Integrar aplicações Java com bancos de dados PostgreSQL, desde a modelagem até a persistência de dados.
 - **Conteúdo**:
