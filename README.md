@@ -64,35 +64,6 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
 
 ---
 
-### **5. Spring Framework**
-- **Objetivo**: Desenvolver aplicações modernas usando Spring.
-- **Conteúdo**:
-  - **Spring Core**: Injeção de Dependência, IoC (Inversion of Control).
-  - **Spring MVC**: Desenvolvimento de aplicações web.
-  - **Spring Boot**: Simplificação para criar APIs RESTful.
-  - **Spring Security**: Autenticação e autorização.
-- **[Projetos com Spring](link-para-projetos-spring)**.
-
----
-
-### **6. Projetos Práticos**
-- **Objetivo**: Consolidar o aprendizado em projetos reais.
-- **Projetos**:
-  - **API RESTful com Spring Boot**: CRUD completo.
-  - **Sistema de Login com Spring MVC**: Integração com banco de dados.
-  - **Microserviços com Spring Boot**: Soluções distribuídas.
-
----
-
-### **7. Microserviços e Arquitetura**
-- **Objetivo**: Aprofundar-se em arquitetura de sistemas distribuídos.
-- **Conteúdo**:
-  - **Spring Cloud**: Construção de aplicações distribuídas.
-  - **Spring WebFlux**: Programação reativa.
-  - **Docker + Kubernetes**: Empacotamento e orquestração de microserviços.
-
----
-
 ## **Como Utilizar Este Repositório**
 1. Navegue pelos diretórios organizados por módulo.
 2. Cada módulo contém:
@@ -104,14 +75,9 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
 ---
 
 ## **Colaboração**
-Este projeto foi desenvolvido em conjunto com o **ChatGPT**, que forneceu suporte técnico, explicações e auxílio na organização de tópicos e exercícios.
+Este projeto foi desenvolvido em conjunto com o **ChatGPT**, **GEMINI** e todo tipo material encontrado na internet, que forneceu suporte técnico, explicações e auxílio na organização de tópicos e exercícios.
 
 ---
-
-## **Próximos Passos**
-- [ ] Concluir os exercícios de Fundamentos.
-- [ ] Criar os primeiros projetos de POO.
-- [ ] Avançar para Spring Framework e JDBC.
 
 ---
 
