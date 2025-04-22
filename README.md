@@ -1,6 +1,6 @@
 # **Trilha de Estudos em Java**
 
-Este repositório documenta meu progresso e aprendizado na linguagem **Java**, seguindo uma trilha organizada em módulos, desde os fundamentos até tópicos avançados, como microserviços e arquitetura distribuída. O conteúdo foi desenvolvido em conjunto com o **ChatGPT**, que me auxiliou no planejamento, explicações e organização das etapas de estudo.
+Este repositório documenta meu progresso e aprendizado na linguagem **Java**, seguindo uma trilha organizada em módulos, desde os fundamentos até a integração com bancos de dados PostgreSQL utilizando JDBC. O conteúdo foi desenvolvido com o auxílio do **ChatGPT**, **GEMINI** e diversos materiais encontrados na internet, que forneceram suporte técnico, explicações e auxílio na organização das etapas de estudo. O aprendizado de Spring Framework será documentado em um repositório próprio.
 
 ## **Estrutura da Trilha**
 
@@ -12,7 +12,7 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
   - Arrays: Declaração, inicialização e uso.
   - Entrada de dados: Usando `Scanner` para capturar inputs do usuário.
   - **Lista de Exercícios**: [Prática de lógica com exercícios fundamentais](https://github.com/isgust/DevJava/blob/master/Modulo%2001/Lista%20de%20Exercicios-%20Modulo%2001.pdf).
-  
+
 ---
 
 ### **2. Programação Orientada a Objetos (POO)**
@@ -33,49 +33,38 @@ Este repositório documenta meu progresso e aprendizado na linguagem **Java**, s
   - **Java 8+ Features**: Lambdas, Streams e Optional.
 
 ---
-### **4. Banco de Dados com PostgreSQL e Java
+### **4. Banco de Dados com PostgreSQL e Java**
 
-- **Objetivo**: Integrar aplicações Java com bancos de dados PostgreSQL, desde a modelagem até a persistência de dados.
+- **Objetivo**: Integrar aplicações Java com bancos de dados PostgreSQL, desde a modelagem até a persistência de dados utilizando JDBC.
 - **Conteúdo**:
 
-    - **1. Modelagem de Dados para PostgreSQL:**
-        - Conceitos de bancos de dados relacionais (tabelas, chaves, relacionamentos).
-        - Diagramas Entidade-Relacionamento (ER) para modelagem.
-        - Normalização de dados (1FN, 2FN, 3FN).
-        - Conceitos específicos do PostgreSQL, como schemas e tipos de dados avançados.
-    - **2. SQL com PostgreSQL:**
-        - Comandos básicos (CRUD: CREATE, READ, UPDATE, DELETE).
-        - Consultas avançadas (JOINs, subconsultas, funções agregadas).
-        - Transações e controle de concorrência.
-        - Otimização de consultas específicas do PostgreSQL.
-        - PL/pgSQL Básico, para criação de Stored Procedures, Functions e Triggers.
-    - **3. JDBC e PostgreSQL:**
-        - Conexão Java com PostgreSQL via JDBC.
-        - Execução de comandos SQL e tratamento de resultados.
-        - Boas práticas de JDBC com PostgreSQL.
-        - Utilização de Drivers específicos do PostgreSQL.
-    - **4. Hibernate/JPA e PostgreSQL:**
-        - Mapeamento Objeto-Relacional (ORM) com Hibernate/JPA.
-        - Entidades e mapeamento de tabelas.
-        - Consultas com HQL/Criteria API.
-        - Gerenciamento de transações.
-        - Dialetos do PostgreSQL no Hibernate.
-        - Projetos práticos com JDBC e Hibernate utilizando PostgreSQL.
-
+  - **1. Modelagem de Dados para PostgreSQL:**
+    - Conceitos de bancos de dados relacionais (tabelas, chaves, relacionamentos).
+    - Diagramas Entidade-Relacionamento (ER) para modelagem.
+    - Normalização de dados (1FN, 2FN, 3FN).
+    - Conceitos específicos do PostgreSQL, como schemas e tipos de dados avançados.
+  - **2. SQL com PostgreSQL:**
+    - Comandos básicos (CRUD: CREATE, READ, UPDATE, DELETE).
+    - Consultas avançadas (JOINs, subconsultas, funções agregadas).
+  - **3. JDBC e PostgreSQL:**
+    - Conexão Java com PostgreSQL via JDBC.
+    - Execução de comandos SQL e tratamento de resultados.
+    - Boas práticas de JDBC com PostgreSQL.
+    - Utilização de Drivers específicos do PostgreSQL.
 ---
 
 ### **Como Utilizar Este Repositório**
 1. Navegue pelos diretórios organizados por módulo.
 2. Cada módulo contém:
-   - Anotações teóricas.
-   - Exercícios resolvidos.
-   - Projetos práticos.
+  - Anotações teóricas.
+  - Exercícios resolvidos.
+  - Projetos práticos.
 3. Links úteis e materiais adicionais estão disponíveis em cada seção.
 
 ---
 
 ### **Colaboração**
-Este projeto foi desenvolvido em conjunto com o **ChatGPT**, **GEMINI** e todo tipo material encontrado na internet, que forneceu suporte técnico, explicações e auxílio na organização de tópicos e exercícios.
+Este projeto foi desenvolvido com o apoio do **ChatGPT**, **GEMINI** e de diversos conteúdos encontrados na internet, que forneceram suporte técnico, explicações e auxílio na organização de tópicos e exercícios. O aprendizado de Spring Framework será documentado em um repositório próprio.
 
 ---
 
@@ -85,5 +74,3 @@ Este projeto foi desenvolvido em conjunto com o **ChatGPT**, **GEMINI** e todo t
 Sinta-se à vontade para abrir **issues** ou enviar um **pull request** com sugestões e melhorias.
 
 ---
-
-
